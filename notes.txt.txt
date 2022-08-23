@@ -1,3 +1,12 @@
+drag and drop method or uploading file method:
+
+this is a traditional method for uploading files in github.
+in this method we can upload only small projects.
+it will not workout if we have bunch of files.
+
+settings=> pages=> pages build and deploy=> u can see ur deployed site thorugh github itself.
+this is only for seeing html, css js files(index.html).
+
 Git bash  method: 
 
 git bash download
@@ -15,3 +24,11 @@ source control method:
 for this method , we must have an alreday exsting repo in github.
 if we do some changes in our files in vs code, 
 we can give commit msg from here and do the changes in github files.
+
+CLI method:
+
+git init
+git remote
+git add . 
+git commit
+git push=> it will give u the correct command
