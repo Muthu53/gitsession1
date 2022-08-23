@@ -1,0 +1,12 @@
+Git bash  method: 
+
+git bash download
+git bash install
+register with username , email
+git clone=> we can create a folder through git bash
+we can create files also by this method.
+ls=> we can see the lost of files inside the folder
+git add .
+git commit -m "any message"
+git push
+
