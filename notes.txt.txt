@@ -10,3 +10,8 @@ git add .
 git commit -m "any message"
 git push
 
+source control method:
+
+for this method , we must have an alreday exsting repo in github.
+if we do some changes in our files in vs code, 
+we can give commit msg from here and do the changes in github files.
