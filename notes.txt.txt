@@ -31,4 +31,10 @@ git init
 git remote
 git add . 
 git commit
-git push=> it will give u the correct command
+git push=> it will give u the correct command 
+
+first type this command before push it
+
+git init
+git add .
+git status
